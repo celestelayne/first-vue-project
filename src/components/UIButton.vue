@@ -16,7 +16,7 @@ export default {
 
 <style scoped>
   button {
-    width: 40%;
+    width: 20%;
     height: 50px;
   }
   .flat{
