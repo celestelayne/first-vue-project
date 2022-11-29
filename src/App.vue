@@ -22,6 +22,7 @@ export default {
 </script>
 
 <template>
+  <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome"/>
   <UIButton :label="'Generate PDF'" @click="download" />
 </template>
